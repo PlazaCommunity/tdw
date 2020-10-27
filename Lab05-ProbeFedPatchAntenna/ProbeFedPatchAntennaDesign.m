@@ -36,8 +36,6 @@ feedPointX = length / pi * acos( sqrt( z_0 * 2 * pi * width / (eta * lambda) * (
 coaxOuterDiameter = coaxInnerDiameter * exp(2*pi*z_0*sqrt(eps_coax)/eta);
 
 
-
-
 %% ----------------------
 %OUTPUTS
 %------------------------
