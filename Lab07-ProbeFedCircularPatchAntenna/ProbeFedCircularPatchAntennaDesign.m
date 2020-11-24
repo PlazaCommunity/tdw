@@ -45,7 +45,7 @@ fprintf("\teps_0 = %.2f\n", eps_0);
 
 fprintf("\nInputs:\n");
 fprintf("\tf_0 = %.4E [Hz]\n", f_0);
-fprintf("\tTarget impedance = %.4E [Ohm]\n", z_0);
+fprintf("\tTarget impedance = %.2f [Ohm]\n", z_0);
 fprintf("\tSubstrate epsilon = %.2f\n", eps_sub);
 fprintf("\tSubstrate Thicccness = %.4E [m]\n", subThiccness);
 fprintf("\tGroundplane Length = %.4E [m]\n", gPlaneLength);
